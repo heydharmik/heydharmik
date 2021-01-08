@@ -1,4 +1,4 @@
-##<h2> Github, where everyone stay connected</h2>
+<h2> Github, where everyone stay connected</h2>
 ### Hi there 👋
 
 <!--
